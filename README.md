@@ -31,6 +31,12 @@
 
 *(Note: Click the project names above to view the code and dashboards.)*
 
+## Certifications
+ **Data Analytics Course & Training |  Besant Technologies | Duration: Dec 2025 to Mar 2026(12-14 weeks)
+Link: drive.google.com/file/d/15t9JWryz7erRg8DbTk9YnXv7XZTL9zUh/view?usp=sharing**
+**Data Analytics  Certification | Nasscom IT-ITeS SSC | Jul 2026 
+Link: drive.google.com/file/d/1Zgc8k8gRd-E0ZsOUNfxxUck6RAK_dwCk/view?usp=sharing**
+
 ## 📊 GitHub Analytics
 <p align="center">
   <a href="https://github.com/Eetakoti-Karthik">
